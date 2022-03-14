@@ -2,7 +2,7 @@
 name: Incorrect card data
 about: Tell us about incorrect card data
 title: ''
-labels: ''
+labels: data
 assignees: ''
 
 ---
