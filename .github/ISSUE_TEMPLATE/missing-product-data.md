@@ -2,7 +2,7 @@
 name: Missing product data
 about: " Tell us about missing product data"
 title: ''
-labels: ''
+labels: missing data
 assignees: ''
 
 ---
